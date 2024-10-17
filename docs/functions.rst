@@ -3,7 +3,7 @@ Functions
 
 The ``greet()`` function will greet a person:
 
-..py:function::ci_course.greet(name=""")``
+.. py:function:: ci_course.greet(name="")
 
     A function that takes a name and returns a greeting.
 
@@ -13,4 +13,4 @@ The ``greet()`` function will greet a person:
     :rtype: str
    
 
-..autofunction:: ci_course.minimum
+.. autofunction:: ci_course.minimum
